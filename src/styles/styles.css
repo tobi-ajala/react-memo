@@ -1,0 +1,26 @@
+a.active {
+  color: orange;
+}
+
+.idea-card {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin: 10px;
+}
+
+.idea-card h3 {
+  margin: 0;
+}
+
+.idea-card .btn {
+  display: none;
+}
+
+.idea-card:hover .btn {
+  display: block;
+}
+
+.body-counter {
+  color: red;
+}
